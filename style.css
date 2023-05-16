@@ -231,3 +231,34 @@ footer {
   justify-content: center;
   align-items: center;
 }
+.section-4 {
+  background-color: rgb(211, 205, 205);
+}
+.section-4-data {
+  width: 1080px;
+  margin: 0 auto;
+  padding-bottom: 4rem;
+  padding-top: 2rem;
+}
+
+.section-4 .section-4-heading {
+  font-size: 2rem;
+  line-height: 1.2;
+  font-weight: 400;
+}
+
+.section-4 .section-4-subheading {
+  width: 1080px;
+  height: 100%;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 8px;
+  border: 0.5px solid rgb(202, 197, 197);
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0 2px 4px rgb(215, 215, 215);
+}
+
+.section-4 .section-4-subheading h4 {
+  font-weight: 200;
+  margin: 0;
+}
